@@ -1,0 +1,1 @@
+So as we get closer to our proofs of concept, what we'd like to do is describe what those objectives are and give you a sense as to how we can really step in and not only compete with, say, for example, a BroadCloud, BroadWorks environment under Cisco, but actually eclipse that (35:24) if you will.
